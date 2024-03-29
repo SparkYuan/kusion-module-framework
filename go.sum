@@ -1479,6 +1479,8 @@ kusionstack.io/kusion v0.10.1-0.20240326060146-3f01e9416ff6 h1:66DJEK1NZyA7C/Geh
 kusionstack.io/kusion v0.10.1-0.20240326060146-3f01e9416ff6/go.mod h1:xI/6cDT0cZAaWFdKVnpV/U5TKpSQnLMnUJAEy/uRpL8=
 kusionstack.io/kusion v0.11.0-rc.1 h1:cRI4mvH55NG5i+3Rrq4oYyQgKNC2mmMJue7BWkczyW4=
 kusionstack.io/kusion v0.11.0-rc.1/go.mod h1:xI/6cDT0cZAaWFdKVnpV/U5TKpSQnLMnUJAEy/uRpL8=
+kusionstack.io/kusion v0.11.0-rc.1.0.20240328081626-6edf6d386f77 h1:J4AgwONdbtEneRWeEZ9A7KBT1+w61gKfAgH2avkX+is=
+kusionstack.io/kusion v0.11.0-rc.1.0.20240328081626-6edf6d386f77/go.mod h1:xI/6cDT0cZAaWFdKVnpV/U5TKpSQnLMnUJAEy/uRpL8=
 oras.land/oras-go v1.2.4 h1:djpBY2/2Cs1PV87GSJlxv4voajVOMZxqqtq9AB8YNvY=
 oras.land/oras-go v1.2.4/go.mod h1:DYcGfb3YF1nKjcezfX2SNlDAeQFKSXmf+qrFmrh4324=
 oras.land/oras-go/v2 v2.3.0 h1:lqX1aXdN+DAmDTKjiDyvq85cIaI4RkIKp/PghWlAGIU=
